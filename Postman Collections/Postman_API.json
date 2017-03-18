@@ -1,0 +1,32 @@
+{
+  "variables": [],
+  "info": {
+    "name": "Postman API",
+    "_postman_id": "54c4fde1-821c-c3e1-44fe-6c8a643097dd",
+    "description": "",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "0f7ebe93-6d4d-a303-ea69-b2c4d22a5378",
+      "name": "https://api.getpostman.com/collections",
+      "request": {
+        "url": "https://api.getpostman.com/collections/1300206-04b5793c-1c78-f903-528c-93dda0e3216b",
+        "method": "GET",
+        "header": [
+          {
+            "key": "X-Api-Key",
+            "value": "5f7efc8258004d0e880a6c2a1d2cb093",
+            "description": ""
+          }
+        ],
+        "body": {
+          "mode": "formdata",
+          "formdata": []
+        },
+        "description": ""
+      },
+      "response": []
+    }
+  ]
+}
