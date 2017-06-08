@@ -6,5 +6,18 @@
     "description": "Spring-Microservices-Dean 4-5 March 2017 by Dean @ GeekyBase",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": []
+  "item": [
+    {
+      "_postman_id": "541ebe77-6aa6-58d8-d651-12e604173e19",
+      "name": "http://localhost:6060/product-service/products",
+      "request": {
+        "url": "http://localhost:6060/product-service/products",
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "description": ""
+      },
+      "response": []
+    }
+  ]
 }
