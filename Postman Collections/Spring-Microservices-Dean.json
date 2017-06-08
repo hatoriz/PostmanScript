@@ -18,6 +18,18 @@
         "description": ""
       },
       "response": []
+    },
+    {
+      "_postman_id": "c5d63850-03a4-3137-76f0-a7a2cd6676f8",
+      "name": "http://localhost:8082/trackings",
+      "request": {
+        "url": "http://localhost:8082/trackings",
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "description": ""
+      },
+      "response": []
     }
   ]
 }
